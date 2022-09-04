@@ -1,0 +1,4 @@
+#忽略index.css这个文件，不缓存和跟踪
+index.css
+#忽略new文件夹里面所有的子文件和自己
+new/
